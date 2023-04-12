@@ -106,3 +106,4 @@ plt.show()
 # INT, FLOAT, STRING, BOOLEAN
 # List, Tuple, Set, Dictionary
 
+#%%
