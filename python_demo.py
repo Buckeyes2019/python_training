@@ -100,3 +100,9 @@ plt.yticks(fontsize=12)
 plt.show()
 
 # %%
+
+# Basic data types
+
+# INT, FLOAT, STRING, BOOLEAN
+# List, Tuple, Set, Dictionary
+
