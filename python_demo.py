@@ -108,3 +108,8 @@ plt.show()
 
 #%%
 #this is a test
+import pandas as pd
+%##
+# %%
+df.head(survey_demo_data)
+# %%
